@@ -4,7 +4,7 @@
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning.**  
 Please look into the attached pdf to each project for complete Project and it's Documentation.
 
-# [Project 1:Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
+# [Project 1: Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
 **Type      :Regression**  
 **Algorithm :Linear Regression**  
 **Language  :R**  
@@ -31,7 +31,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 6. Validation of model using R-Square and residual plot. 
 
 
-# [Project 2:Social Network Ads ](https://github.com/Tashish97/SVM)  
+# [Project 2: Social Network Ads ](https://github.com/Tashish97/SVM)  
 **Type      :Classification**  
 **Algorithm :SVM(Support Vector Machines)**  
 **Language  :R**  
@@ -48,7 +48,7 @@ Using this data set I need to predict the whether a person will buy the product 
 4. Hyperparameter tuning to find best parameters.
 5. Validation of model using AUC_ROC and Confusion Matrix.
 
-# [Project 3:Sentiment Analysis]()  
+# [Project 3: Sentiment Analysis]()  
 **Type      :NLP**  
 **Algorithm :Naive Bayes**  
 **Language  :Python**  
