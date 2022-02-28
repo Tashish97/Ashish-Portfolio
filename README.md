@@ -19,7 +19,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 4. **Normailty** : This assumptio states that the residuals are normally distributed.  
 
 ![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/concepts12.jpg)
-# Work Done:
+## Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge using various visulizational techniques.
 2. Wrote custom functions for various repetitive tasks.
 3. Linearity assumption check on each independent variable.
@@ -28,14 +28,21 @@ This is project in which I applied Linear Regression Model, validating it's assu
 6. Validation of model using R-Square and residual plot. 
 
 
-# [Project 2  :Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)
+# [Project 2  :Social Network Ads ](https://github.com/Tashish97/SVM)
 ### Algorithm :SVM(Support Vector Machines)
 ### Language  :R
 ### IDE       :RStudio
 
 Description:
-Using this data set I need to predict the whether a person will buy the product after seeing the advertisement. SVM is to 
+Using this data set I need to predict the whether a person will buy the product after seeing the advertisement. SVM is to find a line or a hyperplane which separates the data into classes. An SVM algorithm should not only place objects into categories, but have the margins between them on a graph as wide as possible.
 
-A support vector machine is a supervised learning algorithm that sorts data into two categories. It is trained with a series of data already classified into two categories, building the model as it is initially trained. The task of an SVM algorithm is to determine which category a new data point belongs in. This makes SVM a kind of non-binary linear classifier.
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/1_9BmQv73jYA-XOODWt4k-2Q.png)
+## Work Done:
+1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge by using various visulizational techniques.
+2. Feature Engineering using medical domain knowledge.
+3. Data encoding with custom function for Normalization.
+4. Hyperparameter tuning to find best parameters.
+5. Validation of model using AUC_ROC and Confusion Matrix.
 
-An SVM algorithm should not only place objects into categories, but have the margins between them on a graph as wide as possible.
+
+
