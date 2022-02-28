@@ -48,6 +48,15 @@ Using this data set I need to predict the whether a person will buy the product 
 4. Hyperparameter tuning to find best parameters.
 5. Validation of model using AUC_ROC and Confusion Matrix.
 
-# [Project 3:Classifying Pokemon]()
+# [Project 3:Sentiment Analysis]()  
+**Type      :NLP**  
+**Algorithm :Naive Bayes**  
+**Language  :Python**  
+**IDE       :Jupyter Notebook**  
 
+Description:
+Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. For example, a fruit may be considered to be an apple if it is red, round, and about 3 inches in diameter. It's based on bayes theorem.  
 
+![](/images/204.png)  
+## Work Done:  
+1.
