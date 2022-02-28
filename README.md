@@ -19,7 +19,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 3. **Non-Multicollinearity** : This assumptions tells that the independent features must ne non-collinear.
 4. **Normailty** : This assumptio states that the residuals are normally distributed.  
 
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/concepts12.jpg)
+![](/images/concepts12.jpg)
 ## Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge using various visulizational techniques.
 2. Wrote custom functions for various repetitive tasks.
@@ -38,7 +38,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 Description:
 Using this data set I need to predict the whether a person will buy the product after seeing the advertisement. SVM is to find a line or a hyperplane which separates the data into classes. An SVM algorithm should not only place objects into categories, but have the margins between them on a graph as wide as possible.
 
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/1_9BmQv73jYA-XOODWt4k-2Q.png)
+![](/images/1_9BmQv73jYA-XOODWt4k-2Q.png)
 ## Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge by using various visulizational techniques.
 2. Feature Engineering using medical domain knowledge.
