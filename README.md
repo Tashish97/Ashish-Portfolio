@@ -1,5 +1,6 @@
 # Ashish_Toppo_Portfolio
 This is my portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning.
+I have also done a complete documentation, please look into the attached pdf to each project.
 
 # [Project 1  :Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)
 ### Algorithm :Linear Regression
@@ -8,7 +9,7 @@ This is my portfolio to showcsae my knowledge and working methodology in the fie
 
 Description:
 A Linear Regression Model with validating its assumptions.
-I have also done a complete documentation, please look into the attached pdf to each project.
+Linear Regression is all about finding the best fit line.
 
 This is project in which I applied Linear Regression Model, validating it's assumptions which are:
 1. **Linearity** : This assumption assumes that each indepedent variable has a linear relationship with the Dependent Variable.
@@ -23,7 +24,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 4. Handling of outliers.
 5. Removal of columns which do not satisfy the linear regression assumptions.
 6. Validation of model using R-Square and residual plot. Which looks like the image below.
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qualtrics.com%2Fsupport%2Fstats-iq%2Fanalyses%2Fregression-guides%2Finterpreting-residual-plots-improve-regression%2F&psig=AOvVaw3ivWbWGcMZaM2HyE0cak_I&ust=1646130687966000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCQ7OqYovYCFQAAAAAdAAAAABAD)
+[]()
 
 # [Project 2  :Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)
 ### Algorithm :SVM(Support Vector Machines)
