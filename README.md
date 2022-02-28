@@ -16,7 +16,8 @@ This is project in which I applied Linear Regression Model, validating it's assu
 1. **Linearity** : This assumption assumes that each indepedent variable has a linear relationship with the Dependent Variable.
 2. **Homoscedastity** : This assumption states that the residuals have less variance in residuals.
 3. **Non-Multicollinearity** : This assumptions tells that the independent features must ne non-collinear.
-4. **Normailty** : This assumptio states that the residuals are normally distributed.
+4. **Normailty** : This assumptio states that the residuals are normally distributed.  
+
 ![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/concepts12.jpg)
 # Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge using various visulizational techniques.
