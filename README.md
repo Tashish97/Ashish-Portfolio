@@ -10,6 +10,7 @@ I have also done a complete documentation, please look into the attached pdf to 
 Description:
 A Linear Regression Model with validating its assumptions.
 Linear Regression is all about finding the best fit line.
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/modeling_and_linear_regression.jpg)
 
 This is project in which I applied Linear Regression Model, validating it's assumptions which are:
 1. **Linearity** : This assumption assumes that each indepedent variable has a linear relationship with the Dependent Variable.
