@@ -48,7 +48,7 @@ Using this data set I need to predict the whether a person will buy the product 
 4. Hyperparameter tuning to find best parameters.
 5. Validation of model using AUC_ROC and Confusion Matrix.
 
-# [Project 3: Spam Filter]()  
+# [Project 3: Spam Filter](https://github.com/Tashish97/Naive-Bayes-NLP-)  
 **Type      :NLP**  
 **Algorithm :Naive Bayes**  
 **Language  :Python**  
