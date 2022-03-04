@@ -48,7 +48,7 @@ Using this data set I need to predict the whether a person will buy the product 
 4. Hyperparameter tuning to find best parameters.
 5. Validation of model using AUC_ROC and Confusion Matrix.
 
-# [Project 3: Sentiment Analysis]()  
+# [Project 3: Spam Filter]()  
 **Type      :NLP**  
 **Algorithm :Naive Bayes**  
 **Language  :Python**  
@@ -59,4 +59,11 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 
 ![](/images/204.png)  
 ## Work Done:  
-1.
+1. Cleaned the text:
+1.1 Removed the Punctuations using regex.
+1.2 Removed the stop words.
+1.3 Rooted the words using lemmatization
+2. Converted the text data to both bag of words data and tfidf data.
+3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.
+4. Confusion matrix and ROC-AUC curve for validation.
+
