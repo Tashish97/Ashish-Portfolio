@@ -1,7 +1,7 @@
 
 
 # Ashish_Toppo_Portfolio
-**This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning.**  
+**This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
 Please look into the attached pdf to each project for complete Project and it's Documentation.
 
 # [Project 1: Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
@@ -52,7 +52,7 @@ Using this data set I need to predict the whether a person will buy the product 
 **Type      :NLP**  
 **Algorithm :Naive Bayes**  
 **Language  :Python**  
-**IDE       :Jupyter Notebook**  
+**IDE       :Jupyter Lab**  
 
 Description:
 Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature. For example, a fruit may be considered to be an apple if it is red, round, and about 3 inches in diameter. It's based on bayes theorem.  
@@ -66,4 +66,21 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 2. Converted the text data to both bag of words data and tfidf data.
 3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.
 4. Confusion matrix and ROC-AUC curve for validation.
+
+# [Project 3: Clustering of ](https://github.com/Tashish97/KMeans)
+**Type      :Clustering**  
+**Algorithm :Kmeans**  
+**Language  :Python**  
+**IDE       :Jupyter Lab**  
+
+Description:  
+A Small Project to show how to implement Kmeans.  
+k-means clustering tries to group similar kinds of items in form of clusters. It finds the similarity between the items and groups them into the clusters.  
+
+![](/images/kMeans.png)
+## Work Done:  
+1. Preparation of data.  
+2. Visualization of variables.  
+3. Use of **Elbow Metohd and WCSS** to find optimum number of clusters.  
+4. Applying best found number of cluster=**5**.  
 
