@@ -83,4 +83,5 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 2. Visualization of variables.  
 3. Use of **Elbow Metohd and WCSS** to find optimum number of clusters.  
 4. Applying best found number of cluster=**5**.  
+5. Validating the performance of the model using scatter plot.  
 
