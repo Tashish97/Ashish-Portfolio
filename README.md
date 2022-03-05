@@ -67,7 +67,7 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.
 4. Confusion matrix and ROC-AUC curve for validation.
 
-# [Project 3: Clustering of ](https://github.com/Tashish97/KMeans)
+# [Project 3: Clustering of Customers](https://github.com/Tashish97/KMeans)
 **Type      :Clustering**  
 **Algorithm :Kmeans**  
 **Language  :Python**  
