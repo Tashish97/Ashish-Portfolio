@@ -67,7 +67,7 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.
 4. Confusion matrix and ROC-AUC curve for validation.
 
-# [Project 3: Clustering of Customers](https://github.com/Tashish97/KMeans)
+# [Project 4: Clustering of Customers](https://github.com/Tashish97/KMeans)
 **Type      :Clustering**  
 **Algorithm :Kmeans**  
 **Language  :Python**  
@@ -84,4 +84,6 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 3. Use of **Elbow Metohd and WCSS** to find optimum number of clusters.  
 4. Applying best found number of cluster=**5**.  
 5. Validating the performance of the model using scatter plot.  
+
+# [Project 4: Clustering of Customers](https://github.com/Tashish97/Random_Forest)
 
