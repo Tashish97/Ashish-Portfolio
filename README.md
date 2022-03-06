@@ -1,6 +1,6 @@
 
 
-# Ashish_Toppo_Portfolio
+# Ashish_Portfolio
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
 Please look into the attached pdf to each project for complete Project and it's Documentation.
 
