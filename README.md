@@ -1,9 +1,8 @@
 
 
 **Ashish Toppo**  
-**Nostrum IT Services**  
 **Data Scientist**  
-
+**Nostrum IT Services**  
 
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
 In this page you will find:  
