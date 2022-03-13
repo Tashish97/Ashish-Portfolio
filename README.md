@@ -12,7 +12,7 @@ In this page you will find:
 4. Click on the **title of Projects** to go to their respective GitHub Repositories.  
 
 # Live Projects (Active on Heroku)
-# [Project 1: Car Price Prediction]()  
+# [Project 1: Car Price Prediction](https://github.com/Tashish97/Model2)  
 **Type      :Regression**  
 **Algorithm :Random Forest**  
 **Language  :Python, HTML and CSS**  
@@ -22,9 +22,9 @@ Problem Statement:
 To make a regressor model by using the his dataset from www.cardekho.com of various cars sold.  
 **Below is the image of the deployed model!!**  
 
-![](images/car_price_prediction.jpg)  
+![](images/cpp.png)  
 
-Use This [link]() to go to the app.  
+Use This [link](https://car-rs-prediction.herokuapp.com/) to go to the app.  
 
 # [Project 2: Computer Price Prediction](https://github.com/Tashish97/Model1)  
 **Type      :Regression**  
@@ -38,9 +38,9 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 
 **Below is the image of the deployed model!!**   
 
-![](images/PC_price_prediction.jpg)  
+![](images/ppp.png)  
 
-Use This [link]() to go to the app.  
+Use This [link](https://pc-price-prediction.herokuapp.com/) to go to the app.  
 
 # Other Projects on GitHub
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
