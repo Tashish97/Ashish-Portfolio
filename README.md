@@ -2,9 +2,37 @@
 
 # Ashish_Portfolio
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
-Please look into the attached pdf to each project for complete Project and it's Documentation.
+Please look into the attached pdf to each project for complete Project and the EDA.  
 
-# [Project 1: Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
+# Live Projects (Active on Heroku)
+# [Project 1: Car Price Prediction]()  
+**Type      :Regression**  
+**Algorithm :Random Forest**  
+**Language  :Python**  
+**IDE       :Jupyter Lab**  
+ 
+Problem Statement:  
+To make a regressor model by using the his dataset from www.cardekho.com of various cars sold between the year 1993 to 2020.  
+**Below is the image of the model when deployed**  
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/car_price_prediction.png)  
+Use This [link]() to go to the app.  
+
+# [Project 2: Computer Price Prediction](https://github.com/Tashish97/Model1)  
+**Type      :Regression**  
+**Algorithm :Random Forest**  
+**Language  :R**  
+**IDE       :RStudio,RShiny**  
+ 
+Problem Statement:  
+To make a regressor model by to predict the price of computer as per the specifications given through RShiny Interface.  
+This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  
+
+**Below is the image of the model when deployed**  
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/PC_price_prediction.png)  
+Use This [link]() to go to the app.  
+
+# Projects on GitHub
+# [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
 **Type      :Regression**  
 **Algorithm :Linear Regression**  
 **Language  :R**  
@@ -31,7 +59,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 6. Validation of model using R-Square and residual plot. 
 
 
-# [Project 2: Social Network Ads ](https://github.com/Tashish97/SVM)  
+# [Social Network Ads ](https://github.com/Tashish97/SVM)  
 **Type      :Classification**  
 **Algorithm :SVM(Support Vector Machines)**  
 **Language  :R**  
@@ -48,7 +76,7 @@ Using this data set I need to predict the whether a person will buy the product 
 4. Hyperparameter tuning to find best parameters.
 5. Validation of model using AUC_ROC and Confusion Matrix.
 
-# [Project 3: Spam Filter](https://github.com/Tashish97/Naive-Bayes-NLP-)  
+# [Spam Filter](https://github.com/Tashish97/Naive-Bayes-NLP-)  
 **Type      :NLP**  
 **Algorithm :Naive Bayes**  
 **Language  :Python**  
@@ -67,7 +95,7 @@ Naive Bayes classifier assumes that the presence of a particular feature in a cl
 3. Done hyperparameter tuning using GridSearchCv for both bow and tfidf data.
 4. Confusion matrix and ROC-AUC curve for validation.
 
-# [Project 4: Clustering of Customers](https://github.com/Tashish97/KMeans)
+# [Clustering of Customers](https://github.com/Tashish97/KMeans)
 **Type      :Clustering**  
 **Algorithm :Kmeans**  
 **Language  :Python**  
