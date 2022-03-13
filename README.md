@@ -15,12 +15,12 @@ In this page you will find:
 # [Project 1: Car Price Prediction]()  
 **Type      :Regression**  
 **Algorithm :Random Forest**  
-**Language  :Python**  
+**Language  :Python, HTML and CSS**  
 **IDE       :Jupyter Lab**  
  
 Problem Statement:  
-To make a regressor model by using the his dataset from www.cardekho.com of various cars sold between the year 1993 to 2020.  
-**Below is the image of the model when deployed**  
+To make a regressor model by using the his dataset from www.cardekho.com of various cars sold.  
+**Below is the image of the deployed model!!**  
 
 ![](images/car_price_prediction.jpg)  
 
@@ -33,10 +33,10 @@ Use This [link]() to go to the app.
 **IDE       :RStudio,RShiny**  
  
 Problem Statement:  
-To make a regressor model by to predict the price of computer as per the specifications given through RShiny Interface.  
+To make a regressor model to predict the price of computer as per the specifications given through RShiny Interface.  
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  
 
-**Below is the image of the model when deployed**   
+**Below is the image of the deployed model!!**   
 
 ![](images/PC_price_prediction.jpg)  
 
