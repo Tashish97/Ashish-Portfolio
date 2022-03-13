@@ -14,7 +14,7 @@ Please look into the attached pdf to each project for complete Project and the E
 Problem Statement:  
 To make a regressor model by using the his dataset from www.cardekho.com of various cars sold between the year 1993 to 2020.  
 **Below is the image of the model when deployed**  
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/car_price_prediction.png)  
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/car_price_prediction.jpg)  
 Use This [link]() to go to the app.  
 
 # [Project 2: Computer Price Prediction](https://github.com/Tashish97/Model1)  
@@ -28,7 +28,7 @@ To make a regressor model by to predict the price of computer as per the specifi
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  
 
 **Below is the image of the model when deployed**  
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/PC_price_prediction.png)  
+![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/PC_price_prediction.jpg)  
 Use This [link]() to go to the app.  
 
 # Projects on GitHub
