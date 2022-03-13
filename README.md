@@ -14,7 +14,9 @@ Please look into the attached pdf to each project for complete Project and the E
 Problem Statement:  
 To make a regressor model by using the his dataset from www.cardekho.com of various cars sold between the year 1993 to 2020.  
 **Below is the image of the model when deployed**  
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/car_price_prediction.jpg)  
+
+![](images/car_price_prediction.jpg)  
+
 Use This [link]() to go to the app.  
 
 # [Project 2: Computer Price Prediction](https://github.com/Tashish97/Model1)  
@@ -27,8 +29,10 @@ Problem Statement:
 To make a regressor model by to predict the price of computer as per the specifications given through RShiny Interface.  
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  
 
-**Below is the image of the model when deployed**  
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/PC_price_prediction.jpg)  
+**Below is the image of the model when deployed**   
+
+![](images/PC_price_prediction.jpg)  
+
 Use This [link]() to go to the app.  
 
 # Projects on GitHub
@@ -41,7 +45,7 @@ Use This [link]() to go to the app.
 Description:
 A Linear Regression Model with validating its assumptions.
 Linear Regression is all about finding the best fit line.
-![](https://github.com/Tashish97/Ashish_Toppo_Portfolio/blob/main/images/modeling_and_linear_regression.jpg)
+![](images/modeling_and_linear_regression.jpg)
 
 This is project in which I applied Linear Regression Model, validating it's assumptions which are:
 1. **Linearity** : This assumption assumes that each indepedent variable has a linear relationship with the Dependent Variable.
