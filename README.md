@@ -35,7 +35,7 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 
 Use This [link]() to go to the app.  
 
-# Projects on GitHub
+# Other Projects on GitHub
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
 **Type      :Regression**  
 **Algorithm :Linear Regression**  
