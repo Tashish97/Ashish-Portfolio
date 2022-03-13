@@ -24,7 +24,7 @@ To make a regressor model by using the his dataset from www.cardekho.com of vari
 
 ![](images/cpp.png)  
 
-Use This [link](https://car-rs-prediction.herokuapp.com/) to go to the app.  
+Use **This [link](https://car-rs-prediction.herokuapp.com/)** to go to the app.  
 
 # [Project 2: Computer Price Prediction](https://github.com/Tashish97/Model1)  
 **Type      :Regression**  
@@ -40,7 +40,7 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 
 ![](images/ppp.png)  
 
-Use This [link](https://pc-price-prediction.herokuapp.com/) to go to the app.  
+Use **This [link](https://pc-price-prediction.herokuapp.com/)** to go to the app.  
 
 # Other Projects on GitHub
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
