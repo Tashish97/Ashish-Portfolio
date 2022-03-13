@@ -6,7 +6,9 @@
 
 
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
-Please look into the attached pdf to each project for complete Project and the EDA.  
+In this web page:  
+1. I Have two **Live projects on Heroku** Platform based on similar projects I did for my current employer.  
+2. Other Projects to show my knowledge regarding few Machine Learnign Algorithms on Github.  
 
 # Live Projects (Active on Heroku)
 # [Project 1: Car Price Prediction]()  
