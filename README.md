@@ -7,7 +7,7 @@
 
 **This is my Project Portfolio to showcsae my knowledge and working methodology in the field of Data Science and Machine Learning while working as a Data Scientist.**  
 In this page you will find:  
-1. Two **Live projects on Heroku** Platform based on similar projects I did for my current employer as my experience.  
+1. Two **Live projects deployed on Heroku** Platform based on similar projects I did for my current employer as my experience.  
 2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
 
