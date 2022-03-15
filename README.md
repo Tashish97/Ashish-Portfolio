@@ -48,8 +48,7 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 Use **This [link](https://pc-price-prediction.herokuapp.com/)** to go to the app.  
 
 # [Project 3: Interactive Dashboard](https://github.com/Tashish97/Model3)  
-**Type      :Regression**  
-**Algorithm :Random Forest**  
+**Type      :Dashboard**   
 **Language  :R**  
 **IDE       :RStudio,RShiny**  
  
@@ -57,7 +56,7 @@ Problem Statement:
 To make an Interactive Dashboard in R/Shiny to make sense of data using various plots and analysing the Tabulated Data through RShiny Interface.  
 This has similar attributes to a project done by me as a data scientist.  
 
-**Below is the image of the deployed model!!**   
+**Below is the image of the deployed dashboard!!**   
 
 ![](images/)  
 
