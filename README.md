@@ -4,13 +4,13 @@
 **Data Scientist**  
 **Nostrum IT Services**  
 
-**Who I Am**
+**Who I Am?**
 1. An avid data scientist with 1.5+ years of experience.  
 2. A learner with strong background in developing predictive models in both R and Python.
-3. Dashboard Developer R/Shiny.
+3. Dashboard Developer in R/Shiny.
 4. Been an active member of two projects for my current employer.  
 
-In this page you will find:  
+**In this page you will find:**  
 1. Two **Live projects deployed on Heroku** Platform based on similar projects I did for my current employer as my experience with links to them.  
 2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
