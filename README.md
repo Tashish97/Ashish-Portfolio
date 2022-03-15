@@ -11,7 +11,7 @@
 4. Had been an active member for two projects for my current employer.  
 
 **In this page you will find:**  
-1. Two **Live projects deployed on Heroku** Platform based on similar projects I did for my current employer as my experience with links to them.  
+1. **3** **Live projects deployed on Heroku** Platform based on similar projects I did for my current employer as my experience with links to them.  
 2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
 4. Click on the **title of Projects** to go to their respective GitHub Repositories.  
