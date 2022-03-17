@@ -30,7 +30,7 @@ This has attributes like uploading a .csv file and downloading the generated reo
 
 ![](images/dash.jpg)  
 
-Use **This [link](https://data-exp.herokuapp.com/)** to go to the app.  
+Use **This [link](https://r-ash.herokuapp.com/)** to go to the app.  
 # [Project 2: Car Price Prediction](https://github.com/Tashish97/Model2)  
 **Type      :Regression**  
 **Algorithm :Random Forest**  
