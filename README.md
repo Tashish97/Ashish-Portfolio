@@ -8,7 +8,7 @@
 1. An avid data scientist with 1.5+ years of experience.  
 2. A learner with strong background in developing predictive models in both R and Python.
 3. Dashboard Developer in R/Shiny.
-4. Had been an active member for two projects for my current employer.  
+4. Had been an active employee for my current employer.  
 
 **In this page you will find:**  
 1. **3** **Live projects deployed on Heroku** Platform that shows core of my experience with links to them.  
