@@ -11,7 +11,7 @@
 4. Had been an active member for two projects for my current employer.  
 
 **In this page you will find:**  
-1. **3** **Live projects deployed on Heroku** Platform based on the projects I did for my current employer as my experience with links to them.  
+1. **3** **Live projects deployed on Heroku** Platform that shows core of my experience with links to them.  
 2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
 4. Click on the **title of Projects** to go to their respective GitHub Repositories.  
@@ -24,7 +24,7 @@
  
 Problem Statement:  
 To make an Interactive Dashboard in R/Shiny to make sense of data using various plots and analysing the Tabulated Data through RShiny Interface.  
-This has similar attributes to a project done by me as a data scientist.  
+This has attributes like uploading a .csv file and downloading the generated reoprt along with choice of downloading the filtered tabulated data.  
 
 **Below is the image of the deployed dashboard!!**   
 
