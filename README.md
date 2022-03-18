@@ -28,7 +28,7 @@ This has attributes like uploading a .csv file and downloading the generated reo
 
 **Below is the image of the deployed dashboard!!**   
 
-![](images/dash.jpg)  
+![](images/shiny.jpg)  
 
 Use **This [link](https://r-ash.herokuapp.com/)** to go to the app.  
 # [Project 2: Car Price Prediction](https://github.com/Tashish97/Model2)  
