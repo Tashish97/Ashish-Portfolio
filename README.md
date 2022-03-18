@@ -43,7 +43,7 @@ To make a regressor model by using the his dataset from www.cardekho.com of vari
 
 ![](images/cpp.png)  
 
-Use **This [link](https://ex-data.herokuapp.com/)** to go to the app.  
+Use **This [link](https://car-rs-prediction.herokuapp.com/)** to go to the app.  
 
 # [Project 3: Computer Price Prediction](https://github.com/Tashish97/Model1)  
 **Type      :Regression**  
