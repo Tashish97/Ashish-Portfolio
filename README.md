@@ -48,7 +48,7 @@ Use **This [link](https://car-rs-prediction.herokuapp.com/)** to go to the app.
 # [Project 3: Computer Price Prediction](https://github.com/Tashish97/Model1)  
 **Type      :Regression**  
 **Algorithm :Random Forest**  
-**Language  :R**  
+**Language  :R**   
 **IDE       :RStudio,RShiny**  
  
 Problem Statement:  
