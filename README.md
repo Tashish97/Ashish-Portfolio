@@ -1,19 +1,15 @@
 
 
 **Ashish Toppo**  
-**Data Scientist**  
-**Nostrum IT Services**  
 
 **Who Am I ?**   
-1. An avid data scientist with 1.5+ years of experience.  
-2. A learner with strong background in developing predictive models in both R and Python.
-3. Dashboard Developer in R/Shiny.
-4. Had been an active employee for my current employer.  
+1. A learner with strong background in developing predictive models in both R and Python.
+2. Dashboard Developer in R/Shiny. 
 
 **In this page you will find:**  
 1. **3** **Live projects deployed on Heroku** Platform that shows core of my experience with links to them.  
 2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
-3. The approach I follow as a Data Scientist.  
+3. The approach I would follow as a Data Scientist.  
 4. Click on the **title of Projects** to go to their respective GitHub Repositories.  
 
 # Live Projects (Active on Heroku)
