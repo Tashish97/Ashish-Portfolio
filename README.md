@@ -22,7 +22,7 @@
  
 Problem Statement:  
 To make an Interactive Dashboard in R/Shiny to make sense of data using various interavtive plots using **Plotly** and analysing the Tabulated Data through RShiny Interface.  
-This has attributes like uploading a .csv file and downloading the generated reoprt along with choice of downloading the previwed plots and filtered tabulated data.  
+This has attributes like uploading a .csv file and downloading the generated reoprt along with choice of downloading the previewed plots and filtered tabulated data.  
 
 **Below is the image of the deployed dashboard!!**   
 
