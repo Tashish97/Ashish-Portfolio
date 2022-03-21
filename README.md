@@ -1,5 +1,3 @@
-
-
 **Ashish Toppo**  
 **Data Scientist**
 **Nostrum IT Services**
