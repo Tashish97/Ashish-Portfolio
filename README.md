@@ -3,7 +3,7 @@
 **Nostrum IT Services**
 
 **Who Am I ?**   
-1. An Avid Data Scientist with 1.5+ Experience.
+1. An Avid Data Scientist with 1.5+ years of Experience.
 2. A learner with strong background in developing predictive models in both R and Python.
 3. Dashboard Developer in R/Shiny. 
 4. I Have been an active employee for my current employer.
