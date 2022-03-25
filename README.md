@@ -10,9 +10,9 @@
 
 **In this page you will find:**  
 1. **3** **Live projects deployed on Heroku** Platform that shows core of my experience with links to them.  
-2. Other Projects to show my knowledge regarding few Machine Learning Algorithms on Github.  
+2. Other Projects to show my knowledge on few but not limited, Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
-4. Click on the **title of Projects** to go to their respective GitHub Repositories.  
+4. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
 
 # Live Projects (Active on Heroku)
 # [Project 1: Interactive Dashboard](https://github.com/Tashish97/Model3)  
