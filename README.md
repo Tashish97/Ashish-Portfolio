@@ -1,6 +1,5 @@
 **Ashish Toppo**  
 **Data Scientist**  
-**Nostrum IT Services**
 
 **Who Am I ?**   
 1. An Avid Data Scientist with 1.5+ years of Experience.
