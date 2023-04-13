@@ -13,8 +13,7 @@
 3. The approach I follow as a Data Scientist.  
 4. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
 
-# Live Projects (Active on Heroku)
-# [Project 1: Interactive Dashboard](https://github.com/Tashish97/Model3)  
+# [Project 1: Interactive Dashboard]
 **Type      :Dashboard**   
 **Language  :R**  
 **IDE       :RStudio,RShiny**  
@@ -23,12 +22,11 @@ Problem Statement:
 To make an Interactive Dashboard in R/Shiny to make sense of data using various interavtive plots using **Plotly** and analysing the Tabulated Data through RShiny Interface.  
 This has attributes like uploading a .csv file and downloading the generated reoprt along with choice of downloading the previewed plots and filtered tabulated data.  
 
-**Below is the image of the deployed dashboard!!**   
+**Below is the image of the of dashboard!!**   
 
 ![](images/bluff.jpg)  
 
-Use **This [link](https://ex-data.herokuapp.com/)** to go to the app.  
-# [Project 2: Car Price Prediction](https://github.com/Tashish97/Model2)  
+# [Project 2: Car Price Prediction]
 **Type      :Regression**  
 **Algorithm :Random Forest**  
 **Language  :Python, HTML and CSS**  
@@ -40,9 +38,8 @@ To make a regressor model by using the his dataset from www.cardekho.com of vari
 
 ![](images/cpp.png)  
 
-Use **This [link](https://car-rs-prediction.herokuapp.com/)** to go to the app.  
 
-# [Project 3: Computer Price Prediction](https://github.com/Tashish97/Model1)  
+# [Project 3: Computer Price Prediction]
 **Type      :Regression**  
 **Algorithm :Random Forest**  
 **Language  :R**   
@@ -56,7 +53,6 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 
 ![](images/ppp.png)  
 
-Use **This [link](https://pc-price-prediction.herokuapp.com/)** to go to the app.  
 
 # Other Projects on GitHub
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
