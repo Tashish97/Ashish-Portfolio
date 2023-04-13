@@ -13,7 +13,7 @@
 3. The approach I follow as a Data Scientist.  
 4. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
 
-# [Project 1: Interactive Dashboard]
+# [Project 1: Interactive Dashboard](https://github.com/Tashish97/Model3)
 **Type      :Dashboard**   
 **Language  :R**  
 **IDE       :RStudio,RShiny**  
@@ -26,7 +26,7 @@ This has attributes like uploading a .csv file and downloading the generated reo
 
 ![](images/bluff.jpg)  
 
-# [Project 2: Car Price Prediction]
+# [Project 2: Car Price Prediction](https://github.com/Tashish97/Model2)
 **Type      :Regression**  
 **Algorithm :Random Forest**  
 **Language  :Python, HTML and CSS**  
@@ -39,7 +39,7 @@ To make a regressor model by using the his dataset from www.cardekho.com of vari
 ![](images/cpp.png)  
 
 
-# [Project 3: Computer Price Prediction]
+# [Project 3: Computer Price Prediction](https://github.com/Tashish97/Model1)
 **Type      :Regression**  
 **Algorithm :Random Forest**  
 **Language  :R**   
