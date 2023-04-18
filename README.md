@@ -8,7 +8,7 @@
 4. I Have been an active employee for my current employer.
 
 **In this page you will find:**  
-1. **3** **Live projects deployed on Heroku** Platform that shows core of my experience with links to them.  
+1. **3** **End to End projects** with titles as Project*, that shows core of my experience with links to them.  
 2. Other Projects to show my knowledge on few but not limited, Machine Learning Algorithms on Github.  
 3. The approach I follow as a Data Scientist.  
 4. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
