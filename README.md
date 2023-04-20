@@ -70,11 +70,7 @@ Following are 2 SQL Projects, where I tried to solve some questions about the da
 
 <details>
 
-<summary>
-
-<span style="color:red">Click to check Other Projects on GitHub</span>
-
-</summary> 
+<summary>Click to check Other Projects on GitHub</summary> 
 
 
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
