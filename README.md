@@ -20,9 +20,9 @@
  
 Problem Statement:  
 To make an One Stop Web based application in Streamlit which gives access to **3 Types of disease prediction** which are as follows:  
-- [x] Diabetes Prediction  
-- [x] Heart Disease Prediction  
-- [x] Parkinson's Prediction  
+1. Diabetes Prediction  
+2. Heart Disease Prediction  
+3. Parkinson's Prediction  
   
   This is a multipage application, giving users the ability to predict the above diseases in a single app.  
 
@@ -70,9 +70,9 @@ Following are 2 SQL Projects, where I tried to solve some questions about the da
 
 <details>
 
-<summary>Click to check Other Projects on GitHub</summary> 
-
-
+<summary>Click to Expand and check Other Projects on GitHub</summary> 
+  
+  
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
 **Type      :Regression**  
 **Algorithm :Linear Regression**  
@@ -90,9 +90,6 @@ This is project in which I applied Linear Regression Model, validating it's assu
 3. **Non-Multicollinearity** : This assumptions tells that the independent features must ne non-collinear.
 4. **Normailty** : This assumptio states that the residuals are normally distributed.  
 
-</details>
-
-
 ![](/images/concepts12.jpg)
 ## Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge using various visulizational techniques.
@@ -101,8 +98,7 @@ This is project in which I applied Linear Regression Model, validating it's assu
 4. Handling of outliers.
 5. Removal of columns which do not satisfy the linear regression assumptions.
 6. Validation of model using R-Square and residual plot. 
-
-
+  
 # [Social Network Ads ](https://github.com/Tashish97/SVM)  
 **Type      :Classification**  
 **Algorithm :SVM(Support Vector Machines)**  
@@ -156,6 +152,8 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 3. Use of **Elbow Metohd and WCSS** to find optimum number of clusters.  
 4. Applying best found number of cluster=**5**.  
 5. Validating the performance of the model using scatter plot.  
+  
 
-
+</details>
+  
 
