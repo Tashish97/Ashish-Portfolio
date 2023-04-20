@@ -29,7 +29,7 @@ This has attributes like uploading a .csv file and downloading the generated reo
 # [Project 2: Car Price Prediction](https://github.com/Tashish97/Car_Price_Prediction_v2)
 **Type      :Regression**  
 **Algorithm :Random Forest**  
-**Language  :Python, HTML and CSS**  
+**Language  :Python**  
 **IDE       :Jupyter Lab**  
  
 Problem Statement:  
