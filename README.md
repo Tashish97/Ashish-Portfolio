@@ -51,7 +51,7 @@ This data can be used for a lot of purposes such as price prediction to exemplif
 
 **Below is the image of the deployed model!!**   
 
-![](images/ppp.png)  
+![](images/ppp.PNG)  
 
 
 # Other Projects on GitHub
