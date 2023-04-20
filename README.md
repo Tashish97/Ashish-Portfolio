@@ -94,6 +94,9 @@ This is project in which I applied Linear Regression Model, validating it's assu
 3. **Non-Multicollinearity** : This assumptions tells that the independent features must ne non-collinear.
 4. **Normailty** : This assumptio states that the residuals are normally distributed.  
 
+</details>
+
+
 ![](/images/concepts12.jpg)
 ## Work Done:
 1. EDA on independent variable(s) and dependent variable and answering a few questions as per my knowledge using various visulizational techniques.
@@ -159,5 +162,4 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 5. Validating the performance of the model using scatter plot.  
 
 
-</details>
 
