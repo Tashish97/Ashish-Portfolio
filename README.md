@@ -70,8 +70,13 @@ Following are 2 SQL Projects, where I tried to solve some questions about the da
 
 <details>
 
-<summary><span style="color:red">Click to check Other Projects on GitHub</span></summary> 
-  
+<summary>
+
+<span style="color:red">Click to check Other Projects on GitHub</span>
+
+</summary> 
+
+
 # [Insurance Forecast ](https://github.com/Tashish97/Linear-Regression)  
 **Type      :Regression**  
 **Algorithm :Linear Regression**  
@@ -153,4 +158,6 @@ k-means clustering tries to group similar kinds of items in form of clusters. It
 4. Applying best found number of cluster=**5**.  
 5. Validating the performance of the model using scatter plot.  
 
+
 </details>
+
