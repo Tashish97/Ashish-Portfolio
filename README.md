@@ -36,7 +36,7 @@ Problem Statement:
 To make a regressor model by using the his dataset from www.cardekho.com of various cars sold.  
 **Below is the image of the deployed model!!**  
 
-![](images/cpp.png)  
+![](images/cpp.PNG)  
 
 
 # [Project 3: Computer Price Prediction](https://github.com/Tashish97/Model1)
