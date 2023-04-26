@@ -69,7 +69,7 @@ Following are 2 SQL Projects, where I tried doing data analysis to get some insi
   
   
 
-# Other Projects on Github  
+# Other Machine Learning Projects on Github  
 
 **Project Name**  | **Algorithm**    
 ------------- | ------------- 
