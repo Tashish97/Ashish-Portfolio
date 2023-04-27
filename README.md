@@ -26,7 +26,7 @@ To make an One Stop Web based application in Streamlit which gives access to **3
   
   This is a multipage application, giving users the ability to predict the above diseases in a single app.  
 
-**Click link Below to go to live dashboard!!**. 
+**Click link Below to go to live web application!!**. 
 ## [Live Link](https://tashish97-multidiseasepredict-app-z1stmq.streamlit.app/)  
 
 ![](images/mdp.PNG)  
