@@ -2,7 +2,7 @@
 **Data Scientist**  
 
 **Who Am I ?**   
-1. An Avid Data Science enthusiast with 1 year of Work Experience.
+1. A Data Science enthusiast with 1 year of Work Experience.
 2. A learner with background in developing predictive models in Python.
 3. Dashboard Developer in Streamlit, Power BI and basic web apps in R/Shiny. 
 
