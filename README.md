@@ -29,7 +29,7 @@ To make an One Stop Web based application in Streamlit which gives access to **3
 **Click link Below to go to live dashboard!!**   
 ## [Live Link]()  
 
-![](images/bluff.jpg)  
+![](images/mdp.PNG)  
 
 # [Project 2: Car Price Prediction](https://github.com/Tashish97/Car_Price_Prediction_v2)
 **Type      :Regression**  
