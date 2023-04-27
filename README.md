@@ -13,7 +13,7 @@
 4. Other Projects to show my knowledge on few but not limited, Machine Learning Algorithms on Github.  
 5. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
 
-# [Project 1: Multi Disease Prediction System](https://github.com/Tashish97/multi-disease)
+# [Project 1: Multi Disease Prediction System](https://github.com/Tashish97/multiDiseasePredict)
 **Type      :Classification, Regression**   
 **Language  :Python**  
 **Skills    :SVM, Logistic Regression, Streamlit**  
