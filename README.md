@@ -13,7 +13,7 @@
 4. Other Projects to show my knowledge on few but not limited, Machine Learning Algorithms on Github.  
 5. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
 
-# [Project 1: Multi Disease Prediction System]()
+# [Project 1: Multi Disease Prediction System](https://github.com/Tashish97/multi-disease)
 **Type      :Classification, Regression**   
 **Language  :Python**  
 **Skills    :SVM, Logistic Regression, Streamlit**  
@@ -27,7 +27,7 @@ To make an One Stop Web based application in Streamlit which gives access to **3
   This is a multipage application, giving users the ability to predict the above diseases in a single app.  
 
 **Click link Below to go to live dashboard!!**   
-## [Live Link]()  
+## [Live Link](https://tashish97-multi-disease-mdp-s8e7lu.streamlit.app/)  
 
 ![](images/mdp.PNG)  
 
@@ -40,7 +40,7 @@ Problem Statement:
 To make a regressor model by using the his dataset from www.cardekho.com of various cars sold.  
   
 **Click link Below to go to the deployed model in a live web application!!**   
-## [Live Link]()  
+## [Live Link](https://cpp-sqg7.onrender.com/)  
 
 ![](images/cpp.PNG)  
 
