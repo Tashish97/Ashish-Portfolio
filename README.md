@@ -54,7 +54,7 @@ To make a regressor model to predict the price of computer as per the specificat
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.  
 
 **Click link Below to go to the deployed model in a live web application!!**   
-## [Live Link]()  
+## [Live Link](https://tashish97.shinyapps.io/computerpp/)  
 
 ![](images/ppp.png)  
 
