@@ -13,7 +13,7 @@
 4. Other Projects to show my knowledge on few but not limited, Machine Learning Algorithms on Github.  
 5. Click on the **Title of Projects** to go to their respective GitHub Repositories.  
   
-**NOTE: Sometimes the live links may take a bit of time to load but that is due to waking up the service, your understanding is appreciated** 
+**NOTE: Sometimes the live links may take a bit of time to load but that is due to waking up the service from hibernation state, your patience is appreciated** 
 
 # [Project 1: Multi Disease Prediction System](https://github.com/Tashish97/multiDiseasePredict)
 **Type      :Classification, Regression**   
