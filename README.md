@@ -1,5 +1,4 @@
 **Ashish Toppo**  
-**Data Scientist**  
 
 **Who Am I ?**   
 1. A Data Science enthusiast with 1 year of Work Experience.
